@@ -56,3 +56,21 @@ a short biography about the most importan Paraguayan novelist...
     <li><b>La tierra sin mal (</b>1998; Land Without Evil<b>)</b></li>
   </ul>
   
+  
+  body {
+  background-image: url("http://www.fljmedia.com/wp-content/uploads/2010/11/pukalski_sxc.hu_.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin: 150px 200px 100px 200px;
+  background-attachment: fixed;
+  }
+.cuadro {
+  background-color: #f2f2f2;
+  padding: 50px;
+  border: solid black;
+}
+#titulo {
+  font-family: Satisfy;
+  align: center;
+}
+
